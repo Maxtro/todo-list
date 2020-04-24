@@ -1,0 +1,31 @@
+.task{
+    display: grid;
+    grid-template-columns: 30px auto;
+    gap: 5px;
+    font-style: normal;
+    cursor: pointer;
+    font-family: 'Arial', sans-serif;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+.taskDone{
+    display: grid;
+    grid-template-columns: 30px auto;
+    gap: 5px;
+    font-style: italic;
+    text-decoration: line-through;
+    font-family: 'Arial', sans-serif;
+    font-size: 15px;
+    line-height: 22px;
+    cursor: pointer;
+}
+
+.error{
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    font-size: 15px;
+    line-height: 22px;
+    color: red;
+    font-weight: bold;
+}

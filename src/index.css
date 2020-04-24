@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 15px;
+  line-height: 10px;
+}
+
+code {
+  font-family: 'Arial', sans-serif;
+  font-size: 15px;
+}
