@@ -2,4 +2,4 @@
 
 Приложение React JS + Redux + TypeScript
 
-Demo 
+Demo https://maxtro.github.io/todo-list/build/
